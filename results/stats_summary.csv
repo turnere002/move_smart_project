@@ -1,0 +1,2 @@
+Comparison,Test_Type,t_stat,p_value,Cohen_d,Mean_1,Mean_2,Mean_diff
+Normal vs Restricted,Paired,60.84768719095764,7.930830124894909e-48,8.605162446448794,137.44,122.32,15.12
