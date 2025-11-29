@@ -1,0 +1,5 @@
+{
+  "rom_thresh": 140,
+  "pv_thresh": 0.8,
+  "sm_thresh": 0.8
+}
