@@ -1,0 +1,2 @@
+TP,TN,FP,FN,accuracy,sensitivity,specificity,total
+50,50,0,0,1.0,1.0,1.0,100
